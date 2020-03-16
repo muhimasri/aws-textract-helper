@@ -1,0 +1,11 @@
+{
+  "name": "aws-textract-helper",
+  "version": "1.0.0",
+  "description": "AWS Textract Helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhi Masri",
+  "license": "ISC"
+}
