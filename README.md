@@ -1,0 +1,1 @@
+# aws-textract-helper
