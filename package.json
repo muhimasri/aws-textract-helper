@@ -1,6 +1,6 @@
 {
   "name": "aws-textract-helper",
-  "version": "1.0.0-beta.2",
+  "version": "1.0.0-beta.3",
   "description": "AWS Textract Helper",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,15 @@
     "type": "git",
     "url": "https://github.com/muhimasri/aws-textract-helper"
   },
+  "keywords": ["AWS", "Textract"],
   "author": "Muhi Masri",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.20.0",
+    "eslint-plugin-node": "^11.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  }
 }
