@@ -26,8 +26,8 @@ const form = textractHelper.createForm(dataFromTextract)
 It will analyze all blocks and return a JSON object representing a form
 ```
 {
-    "First Name": "John",
-    "Last Name": "Smith",
+    "First Name": "Muhi",
+    "Last Name": "Masri",
     "Address": "Planet Earth"
 }
 ```
@@ -61,7 +61,7 @@ It will analyze all blocks and return an array of tables
 }]
 ```
 
-### Extra options
+## Extra options
 You can use a trimChar config option to remove unwanted characters in form keys such as a colon or extra spaces
 ```
 const form = textractHelper.createForm(dataFromTextract, { trimChars: [':', ' '] })
